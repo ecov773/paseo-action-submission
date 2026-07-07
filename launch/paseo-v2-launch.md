@@ -9,20 +9,19 @@ Validators, collators and RPC nodes per provider. Node counts only.
 | AMFORC | 1 | 2 | 1 | 4 |
 | BESTVALIDATOR | 1 | 2 | 0 | 3 |
 | BLUEFINTUNA | 0 | 2 | 1 | 3 |
-| COINSTUDIO | 1 | 2 | 0 | 3 |
+| COINSTUDIO | 1 | 3 | 0 | 4 |
 | DPSTK | 0 | 3 | 0 | 3 |
-| DWELLIR | 0 | 3 | 0 | 3 |
+| DWELLIR | 0 | 3 | 1 | 4 |
 | EXTRACOIN | 0 | 3 | 0 | 3 |
-| FARADAY | 1 | 2 | 0 | 3 |
+| FARADAY | 1 | 3 | 0 | 4 |
 | GATOTECH | 0 | 2 | 1 | 3 |
 | LUCKYFRIDAY.IO | 0 | 2 | 1 | 3 |
 | INTERWEB | 0 | 2 | 1 | 3 |
 | MILE | 0 | 3 | 0 | 3 |
 | OPENBITLAB | 0 | 3 | 0 | 3 |
 | PARANODES.IO | 0 | 3 | 1 | 4 |
-| POLKADOTTERS | 1 | 2 | 0 | 3 |
+| POLKADOTTERS | 1 | 3 | 0 | 4 |
 | SIK CRIFFERENTE.DE | 0 | 3 | 1 | 4 |
-| STAKE PLUS | 0 | 3 | 1 | 4 |
 | STAKER SPACE | 0 | 3 | 0 | 3 |
 | STAKEWORLD.IO | 0 | 3 | 1 | 4 |
 | STAKING LAND | 0 | 2 | 1 | 3 |
@@ -54,6 +53,7 @@ One line per validator. By default the first two or three accounts from each pro
 ### CoinStudio
 - [ ] CoinStudio · `14EQvBy9h8xGbh2R3ustnkfkF514E7wpmHtg27gDaTLM2str`
 - [ ] CoinStudio/02 · `16McXY75QMgnmoJrKHK49s81yeXMrwTKLBE53587uGhKnLBY`
+- [ ] CoinStudio/03 ·  
 
 ### DPSTK
 - [ ] DPSTK - VAL01 · `12v3n3ERC9qaGvh8EMpqoqbJ9uTNFfVz5V97SgijopadQQNz`
@@ -73,6 +73,7 @@ One line per validator. By default the first two or three accounts from each pro
 ### Faraday
 - [ ] FARADAY · `1jChkUthZcpNvXxNFPBYKsnZ6gPNTpARo4ATdTgMUHEW41f`
 - [ ] FARADAY/02 · `14yzXdaM3kHdYo4WtrgSHY7PDBRVBSbW9SkZ8hoM6SRMLfGv`
+- [ ] FARADAY/03 ·
 
 ### Gatotech
 - [ ] GATOTECH/1 · `14ct38L1AkD3A9bShDNQHx6EVeLf8PVckTrFXFsHZNVTKj1X`
@@ -100,16 +101,12 @@ One line per validator. By default the first two or three accounts from each pro
 ### Polkadotters
 - [ ] Polkadotters · `12s6UMSSfE2bNxtYrJc6eeuZ7UxQnRpUzaAh1gPQrGNFnE8h`
 - [ ] Polkadotters/SHRIMP · `12owmS8Sobqxfx6KK9vk9e67FqnGpZdmxCFCRFptzZdsoujC`
+- [ ] Polkadotters/3
 
 ### Sik crifferent.de
 - [ ] Sik crifferent.de · `15wepZh1jWNqxBjsgErm8HmYiE21n79c5krQJeTsYAjHddeM`
 - [ ] crifferent.de/2 · `14m8CmDmksk4cQ5YtvQzRva7J7B2gLCSSD8dwPfyH6WUahrG`
 - [ ] crifferent.de/3 · `15tDfZCj1dsKiFksZXrdgUV6dLeG5dJiQu7ozwcJtSVtWoYX`
-
-### Stake Plus
-- [ ] Stake Plus · `13xTAvbANb5yZuFHv3pAKgxmCWYRKXHX5NTRwVChSUoaF7iz`
-- [ ] Stake Plus/02 · `13e2rQHUqzWf7nWABeu4Tse1PKKdSnFVYF2a6JKVdN7dVJbo`
-- [ ] Stake Plus/03 · `15oarqCWHp2odVetR7qdDi3KQNMvbgcYqwLAruehARwfCJcg`
 
 ### Rotko Networks
 - [ ] ROTKO NETWORKS/01 · `15HfgrULVrnXuRkEoscWrUiFAk3xjUqpfPPWJeXreiNJmdm6`
@@ -173,7 +170,7 @@ Twelve RPC nodes provisioned through the bounty, one per provider, split across 
 - [ ] **Turboflakes.io**
 
 ### Asset Hub
-- [ ] **Stake Plus**
+- [ ] **Dwellir**
 - [ ] **LuckyFriday.io**
 - [ ] **Amforc**
 
